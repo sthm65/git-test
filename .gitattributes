@@ -1,3 +1,0 @@
-# Declare files that will always have LF line endings on checkout.
-crlf-test-file-lf.sh text eol=crlf
-crlf-test-file-crlf.sh text eol=crlf
